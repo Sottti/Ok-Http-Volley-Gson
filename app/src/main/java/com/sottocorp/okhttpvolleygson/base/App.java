@@ -9,7 +9,7 @@ import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.Volley;
 import com.sottocorp.okhttpvolleygson.others.LruBitmapCache;
 import com.sottocorp.okhttpvolleygson.others.OkHttpStack;
-import com.squareup.okhttp.OkHttpClient;
+import okhttp3.OkHttpClient;
 
 /**
  * Global application singleton instance.
